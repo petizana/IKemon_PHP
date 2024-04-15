@@ -1,0 +1,211 @@
+{
+    "card0": {
+        "name": "Pikachu",
+        "type": "lightning",
+        "hp": 60,
+        "attack": 20,
+        "defense": 20,
+        "price": 160,
+        "description": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
+        "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/025.png",
+        "id": "card0"
+    },
+    "card1": {
+        "name": "Charizard",
+        "type": "fire",
+        "hp": 78,
+        "attack": 84,
+        "defense": 78,
+        "price": 534,
+        "description": "It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames.",
+        "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/006.png",
+        "id": "card1"
+    },
+    "card2": {
+        "name": "Bulbasaur",
+        "type": "grass",
+        "hp": 45,
+        "attack": 49,
+        "defense": 49,
+        "price": 318,
+        "description": "A strange seed was planted on its back at birth. The plant sprouts and grows with this POK\u00e9MON.",
+        "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/001.png",
+        "id": "card2"
+    },
+    "card3": {
+        "name": "Squirtle",
+        "type": "water",
+        "hp": "44",
+        "attack": "48",
+        "defense": "65",
+        "price": "314",
+        "description": "After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth.",
+        "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/007.png",
+        "id": "card3"
+    },
+    "card4": {
+        "name": "Caterpie",
+        "type": "bug",
+        "hp": 45,
+        "attack": 30,
+        "defense": 35,
+        "price": 195,
+        "description": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.",
+        "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/010.png",
+        "id": "card4"
+    },
+    "card5": {
+        "name": "Weedle",
+        "type": "bug",
+        "hp": 40,
+        "attack": 35,
+        "defense": 30,
+        "price": 195,
+        "description": "Often found in forests, eating leaves. It has a sharp venomous stinger on its head.",
+        "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/013.png",
+        "id": "card5"
+    },
+    "card6": {
+        "name": "Pidgey",
+        "type": "normal",
+        "hp": 40,
+        "attack": 45,
+        "defense": 40,
+        "price": 251,
+        "description": "A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand.",
+        "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/016.png",
+        "id": "card6"
+    },
+    "card7": {
+        "name": "Rattata",
+        "type": "normal",
+        "hp": 30,
+        "attack": 56,
+        "defense": 35,
+        "price": 253,
+        "description": "Bites anything when it attacks. Small and very quick, it is a common sight in many places.",
+        "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/019.png",
+        "id": "card7"
+    },
+    "card8": {
+        "name": "Spearow",
+        "type": "normal",
+        "hp": 40,
+        "attack": 60,
+        "defense": 30,
+        "price": 262,
+        "description": "Eats bugs in grassy areas. It has to flap its short wings at high speed to stay airborne.",
+        "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/021.png",
+        "id": "card8"
+    },
+    "card9": {
+        "name": "Ekans CHANGED",
+        "type": "poison",
+        "hp": "35",
+        "attack": "69",
+        "defense": "4400",
+        "price": "288",
+        "description": "Moves silently and stealthily. Eats the eggs of birds, such as PIDGEY and SPEAROW, whole.",
+        "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/023.png",
+        "id": "card9"
+    },
+    "card10": {
+        "name": "Quaxly",
+        "type": "water",
+        "hp": "10",
+        "attack": "2",
+        "defense": "7",
+        "price": "500",
+        "description": "This Pok\u00e9mon migrated to Paldea from distant lands long ago. The gel secreted by its feathers repels water and grime.",
+        "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/912.png",
+        "id": "card10"
+    },
+    "card11": {
+        "name": "Arctibax",
+        "type": "water",
+        "hp": "60",
+        "attack": "44",
+        "defense": "66",
+        "price": "1000",
+        "description": "Arctibax freezes the air around it, protecting its face with an ice mask and turning its dorsal fin into a blade of ice.",
+        "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/997.png",
+        "id": "card11"
+    },
+    "card12": {
+        "name": "Sylveon",
+        "type": "fairy",
+        "hp": "10000",
+        "attack": "10",
+        "defense": "3",
+        "price": "1000",
+        "description": "This Pok\u00e9mon uses its ribbonlike feelers to send a soothing aura into its opponents, erasing their hostility.",
+        "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/700.png",
+        "id": "card12"
+    },
+    "card13": {
+        "name": "Mimikyu ",
+        "type": "psychtic",
+        "hp": "25",
+        "attack": "10",
+        "defense": "10",
+        "price": "100",
+        "description": "This Pok\u00e9mon lives in dark places untouched by sunlight. When it appears before humans, it hides itself under a cloth that resembles a Pikachu.",
+        "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/778.png",
+        "id": "card13"
+    },
+    "card14": {
+        "name": "Bewear ",
+        "type": "fighting",
+        "hp": "500",
+        "attack": "10",
+        "defense": "200",
+        "price": "600",
+        "description": "Once it accepts you as a friend, it tries to show its affection with a hug. Letting it do that is dangerous\u2014it could easily shatter your bones.",
+        "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/760.png",
+        "id": "card14"
+    },
+    "card15": {
+        "name": "Darkrai ",
+        "type": "darkness",
+        "hp": "500",
+        "attack": "50",
+        "defense": "200",
+        "price": "800",
+        "description": "It chases people and Pok\u00e9mon from its territory by causing them to experience deep, nightmarish slumbers.",
+        "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/491.png",
+        "id": "card15"
+    },
+    "card16": {
+        "name": "Registeel ",
+        "type": "metal",
+        "hp": "130",
+        "attack": "30",
+        "defense": "20",
+        "price": "680",
+        "description": "Registeel\u2019s body is made of a strange material that is flexible enough to stretch and shrink but also more durable than any metal.",
+        "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/379.png",
+        "id": "card16"
+    },
+    "card17": {
+        "name": "Eevee",
+        "type": "colorless",
+        "hp": "60",
+        "attack": "1",
+        "defense": "5",
+        "price": "200",
+        "description": "Its ability to evolve into many forms allows it to adapt smoothly and perfectly to any environment.",
+        "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/133.png",
+        "id": "card17"
+    },
+    "card18": {
+        "name": "Kyurem ",
+        "type": "dragon",
+        "hp": "160",
+        "attack": "160",
+        "defense": "160",
+        "price": "1200",
+        "description": "This legendary ice Pok\u00e9mon waits for a hero to fill in the missing parts of its body with truth or ideals.",
+        "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/646.png",
+        "id": "card18"
+    }
+}

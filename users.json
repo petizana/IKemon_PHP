@@ -1,0 +1,38 @@
+{
+    "admin": {
+        "username": "admin",
+        "password": "$2y$10$.em8Em3fq1kiWogHW\/womuo49imm0OKBepzaeCf4ALsefpI1lajbq",
+        "email": "admin@inf.elte.hu",
+        "cards": [
+            "card3",
+            "card6",
+            "card7",
+            "card9",
+            "card11",
+            "card12",
+            "card14",
+            "card16",
+            "card17",
+            "card4",
+            "card8",
+            "card10",
+            "card13",
+            "card15",
+            "card2",
+            "card1",
+            "card0",
+            "card5",
+            "card18"
+        ],
+        "id": "admin",
+        "money": "\u267e\ufe0f"
+    },
+    "6580713cbc4b0": {
+        "username": "test",
+        "password": "$2y$10$JvuCabQuNsDW0dLv3P6WTutmfx.KOdYPOEJJHdo3qzFupq5pzBq02",
+        "email": "test@inf.elte.hu",
+        "cards": [],
+        "money": 1500,
+        "id": "6580713cbc4b0"
+    }
+}
